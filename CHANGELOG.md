@@ -1,5 +1,17 @@
 # Changelog
 
+## [0.2.0-beta](https://github.com/kevinah95/poc-rp-rebase/compare/v0.1.1-beta...v0.2.0-beta) (2025-10-30)
+
+
+### ✨ Features
+
+* Update README to clarify repository purpose ([cc0f7b9](https://github.com/kevinah95/poc-rp-rebase/commit/cc0f7b9333aebf07d09bc38b92b2f47b424b6987))
+
+
+### ✅ Tests
+
+* Update README to clarify repository purpose ([8d25709](https://github.com/kevinah95/poc-rp-rebase/commit/8d25709c93406cd6f91884b0b23c97c03ba90a69))
+
 ## [0.1.1](https://github.com/kevinah95/poc-rp-rebase/compare/v0.1.0...v0.1.1) (2025-10-30)
 
 
